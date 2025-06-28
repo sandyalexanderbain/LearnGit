@@ -1,4 +1,5 @@
-## Hello, Git.
+## Hello welcome to my Git guide.
+Coming from the "dev-jsm" branch.
 
 I'm adding this from "feature-branch"
 
