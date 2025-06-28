@@ -23,3 +23,13 @@ Typical workflow to follow when working on a team with Git.
 6. Merge the changes.
 7. Pull the marged changes into your local main branch.
 8. Repeat from step 2.
+
+How to deal with merge conflicts:
+1. Go to main branch.
+2. Pull changes from one approved merge request.
+3. Go to your branch.
+4. Merge with "git merge main"
+5. See merge conflict error and go back to main branch.
+6. Fix changes manually in file.
+7. Stage and Commit changes.
+8. Push changes.
