@@ -1,4 +1,5 @@
-## Hello welcome to my Git guide.
+## Welcome, Git.
+This is coming from "dev-alexander"
 Coming from the "dev-jsm" branch.
 
 I'm adding this from "feature-branch"
